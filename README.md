@@ -6,7 +6,7 @@
 - &nbsp; I love exploring new tech stack 💻 
 - &nbsp; I leverage new tech to build cool stuffs 🛠️. 
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="100px"/>
 <br/>
 <br/>
  
