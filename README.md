@@ -7,6 +7,7 @@
 - &nbsp; I easily adapt to different hats depending on what the project requires
 - &nbsp; I love exploring new tech stack 💻 
 - &nbsp; I leverage new tech to build cool stuffs 🛠️. 
+- &nbsp; I love connecting with new people.
 
 <br/>
  
