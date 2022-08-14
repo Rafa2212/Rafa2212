@@ -12,7 +12,7 @@
 <br/>
  
 
-#### ⚙️  A little more about me...  
+### ⚙️  A little more about me...  
 
 
 ```javascript
@@ -26,3 +26,8 @@ const rafa = {
 ```
 ### 📊 Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
+ 
+![Stats Overview](https://raw.githubusercontent.com/Rafa2212/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/Rafa2212/github-stats-transparent/output/generated/languages.svg)
+
+</a>
