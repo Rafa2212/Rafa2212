@@ -7,4 +7,15 @@ I am a versatilist and easily adapt to different hats depending on what the proj
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="200px"/>
  
 
-### ⚙️ A little more about me...  
+### ⚙️  A little more about me...  
+
+
+```javascript
+const rafa = {
+  code: [C++, C, C#, Python, Java],
+  tools: [Google Cloud Services, Docker],
+  techCommunities: {
+                        study: West University of Timisoara
+                      }
+}
+```
