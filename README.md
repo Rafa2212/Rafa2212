@@ -3,8 +3,9 @@
 - I am a versatilist
 - I easily adapt to different hats depending on what the project requires
 - I love exploring new tech stack 💻 
-- I leverage new tech to build cool stuffs 🛠️. <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="200px"/>
-<br/>
+- I leverage new tech to build cool stuffs 🛠️. 
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="200px"/>
 <br/>
 <br/>
  
