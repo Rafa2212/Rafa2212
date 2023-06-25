@@ -20,8 +20,9 @@ const rafa = {
   code: [C++, C, C#, Python, Java],
   tools: [Google Cloud Services, Docker],
   techCommunities: {
-                        study: West University of Timisoara
-                      }
+         study: West University of Timisoara
+         work: Syonic
+    }
 }
 ```
 <br/>
