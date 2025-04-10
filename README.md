@@ -21,7 +21,7 @@ const rafa = {
   tools: [Google Cloud Services, Docker],
   techCommunities: {
          study: West University of Timisoara
-         work: Syonic
+         work: SAP
     }
 }
 ```
